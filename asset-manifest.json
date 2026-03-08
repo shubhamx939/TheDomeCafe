@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TheDomeCafe/static/css/main.e6c13ad2.css",
+    "main.js": "/TheDomeCafe/static/js/main.8168d780.js",
+    "static/js/453.4637491d.chunk.js": "/TheDomeCafe/static/js/453.4637491d.chunk.js",
+    "index.html": "/TheDomeCafe/index.html",
+    "main.e6c13ad2.css.map": "/TheDomeCafe/static/css/main.e6c13ad2.css.map",
+    "main.8168d780.js.map": "/TheDomeCafe/static/js/main.8168d780.js.map",
+    "453.4637491d.chunk.js.map": "/TheDomeCafe/static/js/453.4637491d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.8168d780.js"
+  ]
+}
